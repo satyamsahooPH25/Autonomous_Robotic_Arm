@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/3253be0e-52e9-4607-8d53-4fc14efb6a5b" alt="WhatsApp Image 2024-08-02 at 14 13 14" width="300" style="display: block;"/>
 </p>
 
-### semantic segmentation of image whose 4 vertices of a face is exposed
+### semantic segmentation of image whose 4 vertices of a face is exposed with maximum area
   <img src="https://github.com/user-attachments/assets/f39a2509-88c0-4c54-b5c4-05fe7492ace0" alt="WhatsApp Image 2024-08-02 at 14 13 13" width="300" style="display: block; margin-bottom: 10px;"/>
 
 ### Inverse kinematics using coordinate translation from camera coordinates to real world coordinates
