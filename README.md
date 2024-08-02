@@ -3,13 +3,12 @@
 
 ![download](https://github.com/user-attachments/assets/c93d7934-3060-4aa7-a048-1e186d8073f3)
 ### hello
-<p>
+
   <img src="https://github.com/user-attachments/assets/90555c34-6059-4551-a3ef-594412283e65" alt="WhatsApp Image 2024-08-02 at 13 37 44" width="300" style="display: block; margin-bottom: 10px;"/>
-</p>
+
 ### hello
-<p>
   <img src="https://github.com/user-attachments/assets/f39a2509-88c0-4c54-b5c4-05fe7492ace0" alt="WhatsApp Image 2024-08-02 at 14 13 13" width="300" style="display: block; margin-bottom: 10px;"/>
-</p>
+
 ### hello
 <p>
   <img src="https://github.com/user-attachments/assets/3253be0e-52e9-4607-8d53-4fc14efb6a5b" alt="WhatsApp Image 2024-08-02 at 14 13 14" width="300" style="display: block;"/>
